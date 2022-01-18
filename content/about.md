@@ -1,9 +1,8 @@
----
++++
 title: "About"
 date: 2022-01-18T22:05:45Z
 author = "M6WIQ"
-draft: true
----
++++
 
 ### About M6WIQ ###
 
