@@ -1,0 +1,62 @@
+baseURL: 'https://www.m6wiq.uk/'
+title: M6WIQ's blog
+languageCode: en-gb
+pygmentsCodeFences: false
+enableRobotsTXT: true
+theme: hugo-flex
+publishDir: public
+enableGitInfo: true
+
+permalinks:
+  posts: '/:year/:month/:filename/'
+  pages: '/:filename/'
+
+params:
+  color: teal
+  width: 65rem
+  description: M6WIQ's blog
+  footer: (C) 2021 - M6WIQ's Blog - Powered by Hugo
+  rss: >-
+    To subscribe to this RSS feed, copy the address in the address bar and paste
+    it into your favorite feed reader.
+  divider: \a0 # Set to false to remove divider below posts on homepage
+  github: "https://github.com/m6wiq/m6wiq.uk-blog"
+  commit: "https://github.com/m6wiq/m6wiq.uk-blog/tree/"
+  email: "web@m6wiq.uk"
+  schema: true
+  opengraph: false
+  twittercards: false
+  summaries: false
+  utterances:
+    repo:               # Set to Utterances repo URL to add Utterances comments
+    issueterm: pathname
+    theme: github-light
+  netlify:
+    honeypot: false     # Set to true to add honeypot field in contact form
+    recaptcha: false    # Set to true to add recaptcha challenge in contact form
+  # css:                # Uncomment to add custom CSS from a list of files
+  #   - css/foo.css
+  #   - bar.css
+  # js:                 # Uncomment to add custom JS from a list of files
+  #   - js/foo.js
+  #   - bar.js
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+menu:
+  nav:
+    - name: Blog
+      url: posts/
+      weight: 1
+    - name: RSS
+      url: index.xml
+      weight: 2
+    - name: Contact
+      url: contact/
+      weight: 3
+    - name: Site Source
+      url: 'https://github.com/m6wiq/m6wiq.uk-blog'
+      weight: 4
