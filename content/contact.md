@@ -15,8 +15,9 @@ Email address is `web (at) this domain`. Alternatively use one of the methods be
   * [Keybase](https://keybase.io/m6wiq)
   * [QRZ.com](https://www.qrz.com/lookup/m6wiq)
 
-
 [![You won't find me on Facebook!](/images/no-facebook-me.png)](https://www.fsf.org/fb)
+
+[![AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks!](https://www.abuseipdb.com/contributor/73876.svg)](https://www.abuseipdb.com/contributor/73876.svg)
 
 ---
 
