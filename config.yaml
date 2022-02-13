@@ -3,7 +3,7 @@ title: M6WIQ's blog
 languageCode: en-gb
 pygmentsCodeFences: false
 enableRobotsTXT: true
-theme: hugo-flex
+theme: hugo-flex-m6wiq
 publishDir: public
 enableGitInfo: true
 
