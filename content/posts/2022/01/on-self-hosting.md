@@ -2,7 +2,7 @@
 title: "On Self Hosting"
 description: "Moving towards self hosting for learning and independence"
 date: 2022-01-18T22:21:02Z
-draft: false
+draft: true
 author: "M6WIQ"
 ---
 
