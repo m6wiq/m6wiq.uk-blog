@@ -16,3 +16,6 @@ Email address is `web (at) this domain`. Alternatively use one of the methods be
   * [QRZ.com](https://www.qrz.com/lookup/m6wiq)
 
 [![You won't find me on Facebook!](/images/no-facebook-me.png)](https://www.fsf.org/fb)
+
+---
+The VPS is hosted by [BitFolk](https://bitfolk.com/) who aren't sponsoring the site or content, but I like their services. If you're looking for a reliable VPS host, consider using [BitFolk](https://bitfolk.com/). Tell them I sent you. :)
