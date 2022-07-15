@@ -14,7 +14,7 @@ Foundation License gained in November 2015.
 
 **Profession**: Controls Engineer (PLC/SCADA Software for Industrial Control Systems)
 
-My other interests are Photography, Classic Cars, Computer Programming, and AV Equipment.
+My other interests are Photography, Filofax Personal Organisers, Classic Cars, Computer Programming, and AV Equipment.
 
 73's
 
